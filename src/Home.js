@@ -5,7 +5,6 @@ import TheIdea from "./TheIdea";
 import Tasks from './Tasks';
 
 
-
 function Home() {
     const [tasks, setTasks] = useState([])//מוצרים
 
